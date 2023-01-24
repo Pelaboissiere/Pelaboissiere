@@ -1,7 +1,7 @@
 ## Olá, eu sou o Pedro Laboissiere 👋
 
 
-🌱 Atualmente estudando Front End (HTML,CSS,JS,React)
+🌱 Atualmente codando em Front End (HTML,CSS,JS,React)
 
 <div align="center">
   <a href="https://github.com/Pelaboissiere">
