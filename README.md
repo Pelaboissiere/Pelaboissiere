@@ -1,7 +1,7 @@
-## Olá, eu sou o Pedro Laboissiere 👋
+## Hi, I'm Pedro Laboissiere 👋
 
 
-🌱 Apaixonado por Desenvolvimento Web, utilizando atualmente HTML,CSS,JS,React e TypeScript
+🌱 Passionate about Web Development, currently using HTML, CSS, JS, React and TypeScript
 
 <div align="center">
   <a href="https://github.com/Pelaboissiere">
